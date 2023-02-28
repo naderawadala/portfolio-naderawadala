@@ -12,8 +12,7 @@ const Data = () => {
       </h3>
       <p className="home__description">
       I am a young and eager graduate from university looking for an opportunity to bring solutions to complex problems within the business world. 
-      While I believe in constantly optimizing and improving existing solutions, I am equally excited about innovating and bringing new things to the table, 
-      both in and outside of the workplace.
+          I am excited about innovation and am always seeking to bring new things to the table in the field of software development.
       </p>
 
       <a href="#contact" className='button button--flex'>
