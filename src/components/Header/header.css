@@ -47,6 +47,8 @@
     color: var(--title-color-dark);
 }
 
+/*=============== BREAKPOINTS ===============*/
+/* For medium devices */
 @media screen and (max-width: 768px) {
     .header {
         top: initial;
@@ -108,6 +110,7 @@
     }
 }
 
+/* For small devices */
 @media screen and (max-width: 350) {
     .nav__menu{
         padding: 2rem 0.25rem 4rem;
