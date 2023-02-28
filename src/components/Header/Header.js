@@ -24,14 +24,14 @@ const Header = () => {
             </li>
 
             <li className="nav__item">
-              <a href="#contact" className="nav__link">
-                <i className="uil uil-user-circle nav__icon"></i>Contact
+              <a href="#skills" className="nav__link">
+                <i className="uil uil-panel-add nav__icon"></i>Skills
               </a>
             </li>
 
             <li className="nav__item">
               <a href="#experience" className="nav__link">
-                <i className="uil uil-panel-add nav__icon"></i>Experience
+                <i className="uil uil-suitcase nav__icon"></i>Experience
               </a>
             </li>
 
@@ -40,6 +40,13 @@ const Header = () => {
                 <i className="uil uil-code-branch nav__icon"></i>Projects
               </a>
             </li>
+
+            <li className="nav__item">
+              <a href="#contact" className="nav__link">
+                <i className="uil uil-user-circle nav__icon"></i>Contact
+              </a>
+            </li>
+
           </ul>
 
           <i className="uil uil-times nav__close" 
