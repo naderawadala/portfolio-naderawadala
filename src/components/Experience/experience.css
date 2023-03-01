@@ -16,17 +16,17 @@
     cursor: pointer;
 }
 
-.experience__button:hover{
-    color: var(--title-color-dark);
-}
-
 .experience__icon{
     font-size: 1.8rem;
     margin-right: var(--mb-0-25);
 }
-
+.experience__button:hover,
 .experience__active{
-    color: var(--title-color-dark);
+    border-radius: 0.5rem;
+    padding: 0.25rem 0.75rem;
+    background-color: var(--title-color);
+    color: var(--container-color);
+    transition: .3s;
 }
 
 .experience__sections{

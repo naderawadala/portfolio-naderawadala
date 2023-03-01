@@ -44,7 +44,10 @@
 
 .active-link,
 .nav__link:hover {
-    color: var(--title-color-dark);
+    border-radius: 0.5rem;
+    padding: 0.25rem 0.75rem;
+    background-color: var(--title-color);
+    color: var(--container-color);
 }
 
 .scroll-header{
