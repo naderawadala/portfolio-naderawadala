@@ -16,7 +16,7 @@ const About = () => {
           <Info/>
 
           <p className='about__description'>
-            I am a full stack developer with nearly two years of
+            I am a full stack developer with two years of
             experience in the field of software development. I can
             proudly say that I have had the opportunity to specialize
             in a wide array of different technologies and even though
