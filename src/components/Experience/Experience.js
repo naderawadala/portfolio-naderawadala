@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import "./experience.css"
 
 const Experience = () => {
-    const [showExperience, toggleShowExperience] = useState(1)
+    const [showExperience, toggleShowExperience] = useState(2)
 
     const toggleTab = (index) => {
         toggleShowExperience(index)
