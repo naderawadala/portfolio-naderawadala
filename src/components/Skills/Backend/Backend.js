@@ -27,15 +27,7 @@ const Backend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>Elixir</h3>
-                        </div>
-                    </div>
-
-                    <div className='skills__data'>
-                        <i class="bx bx-check-square"></i>
-
-                        <div>
-                            <h3 className='skills__name'>Git</h3>
+                            <h3 className='skills__name'>MSSQL</h3>
                         </div>
                     </div>
 
@@ -54,7 +46,7 @@ const Backend = () => {
                     <i class='bx bx-check-square' ></i>
 
                         <div>
-                            <h3 className='skills__name'>MS SQL</h3>
+                            <h3 className='skills__name'>Spark</h3>
                         </div>
                     </div>
 
@@ -66,13 +58,6 @@ const Backend = () => {
                         </div>
                     </div>
 
-                    <div className='skills__data'>
-                        <i class="bx bx-check-square"></i>
-
-                        <div>
-                            <h3 className='skills__name'>Jira</h3>
-                        </div>
-                    </div>
                     </div>
                 </div>
             </div>

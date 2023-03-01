@@ -1,17 +1,17 @@
 import React from 'react'
 
-const Frontend = () => {
-    return (
-        <div className='skills__content'>
+const Other = () => {
+  return (
+    <div className='skills__content'>
             <h3 className='skills__title'>
-                Frontend Development
+                Other skills
             </h3>
             <div className='skills__box'>
                 <div className='skills__group'>
                     <div className='skills__data'>
                         <i class="bx bx-check-square"></i>
                         <div>
-                            <h3 className='skills__name'>HTML</h3>
+                            <h3 className='skills__name'>OOP</h3>
                         </div>
                     </div>
 
@@ -19,7 +19,7 @@ const Frontend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>CSS</h3>
+                            <h3 className='skills__name'>Git</h3>
                         </div>
                     </div>
 
@@ -27,10 +27,9 @@ const Frontend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>Javascript</h3>
+                            <h3 className='skills__name'>Agile</h3>
                         </div>
                     </div>
-
                     </div>
 
                     <div className='skills__group'>
@@ -38,7 +37,7 @@ const Frontend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>React</h3>
+                            <h3 className='skills__name'>REST</h3>
                         </div>
                     </div>
 
@@ -46,7 +45,7 @@ const Frontend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>Redux</h3>
+                            <h3 className='skills__name'>Jira</h3>
                         </div>
                     </div>
 
@@ -54,13 +53,13 @@ const Frontend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>Bootstrap</h3>
+                            <h3 className='skills__name'>SCRUM</h3>
                         </div>
                     </div>
                     </div>
                 </div>
             </div>
-    )
+  )
 }
 
-export default Frontend
+export default Other
