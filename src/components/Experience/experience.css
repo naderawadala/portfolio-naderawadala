@@ -11,6 +11,7 @@
 .experience__button{
     font-size: var(--h3-font-size);
     font-weight: var(--font-medium);
+    padding: 0.25rem 0.75rem;
     color: var(--title-color);
     margin: 0 var(--mb-1);
     cursor: pointer;
