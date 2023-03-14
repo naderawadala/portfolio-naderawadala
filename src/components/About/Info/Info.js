@@ -7,7 +7,7 @@ const Info = () => {
         <h3 className='about__title'>
           Work
         </h3>
-        <span className='about__subtitle'>2 years of work experience as a developer</span>
+        <span className='about__subtitle'>2+ years of work experience as a developer</span>
       </div>
 
       <div className="about__box">

@@ -77,7 +77,7 @@ const Experience = () => {
                                 <h3 className='experience__title'>Software Engineer</h3>
                                 <span className='experience__subtitle'>pressrelations</span>
                                 <div className='experience__calendar'>
-                                    <i className='uil uil-calendar-alt'>2022-2023</i>
+                                    <i className='uil uil-calendar-alt'>Feb 2022 - Mar 2023</i>
                                 </div>
                             </div>
 
@@ -99,12 +99,28 @@ const Experience = () => {
                                 <h3 className='experience__title'>Software Engineer Intern</h3>
                                 <span className='experience__subtitle'>clouway Ltd.</span>
                                 <div className='experience__calendar'>
-                                    <i className='uil uil-calendar-alt'>2021-2022</i>
+                                    <i className='uil uil-calendar-alt'>Jul 2021 - Feb 2022</i>
                                 </div>
                             </div>
 
                         </div>
-                    </div>
+                    
+
+                    <div className='experience__data'>
+                            <div>
+                                <h3 className='experience__title'>Freelancer</h3>
+                                <span className='experience__subtitle'></span>
+                                <div className='experience__calendar'>
+                                    <i className='uil uil-calendar-alt'>Jan 2021 - Jul 2021</i>
+                                </div>
+                            </div>
+
+                            <div>
+                                <span className='experience__rounder'></span>
+                                <span className='experience__line'></span>
+                            </div>
+                        </div>
+                        </div>
                 </div>
             </div>
         </section>

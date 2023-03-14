@@ -16,11 +16,11 @@ const About = () => {
           <Info/>
 
           <p className='about__description'>
-            I am a full stack developer with two years of
+            I am a full stack developer with over two years of
             experience in the field of software development. I can
             proudly say that I have had the opportunity to specialize
-            in a wide array of different technologies and even though
-            I have graduated from university, I still feel like a lifelong
+            in a wide array of different technologies for a short amount of time 
+            and even though I have graduated from university, I still feel like a lifelong
             student and I am constantly learning new things and I am always curious
             to see what else is out there.
           </p>
