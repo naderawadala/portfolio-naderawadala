@@ -71,10 +71,28 @@ const Experience = () => {
 
                     <div className={showExperience === 2
                         ? 'experience__content experience__content-active'
-                        : 'experience__content content'}>
+                        : 'experience__content content'}>                            
+                        <div className='experience__data'>
+                        <div></div>
+                        
+                            <div>
+                                <span className='experience__rounder'></span>
+                                <span className='experience__line'></span>
+                            </div>
+
+                            <div>
+                                <h3 className='experience__title'>Fullstack Developer</h3>
+                                <span className='experience__subtitle'>DXC Technology</span>
+                                <div className='experience__calendar'>
+                                <i className='uil uil-calendar-alt'>April 2023 - Present</i>
+                                </div>
+                            </div>
+
+                        </div>                                
+
                         <div className='experience__data'>
                             <div>
-                                <h3 className='experience__title'>Software Engineer</h3>
+                                <h3 className='experience__title'>Fullstack Developer</h3>
                                 <span className='experience__subtitle'>pressrelations</span>
                                 <div className='experience__calendar'>
                                     <i className='uil uil-calendar-alt'>Feb 2022 - Mar 2023</i>
@@ -103,23 +121,7 @@ const Experience = () => {
                                 </div>
                             </div>
 
-                        </div>
-                    
-
-                    <div className='experience__data'>
-                            <div>
-                                <h3 className='experience__title'>Freelancer</h3>
-                                <span className='experience__subtitle'></span>
-                                <div className='experience__calendar'>
-                                    <i className='uil uil-calendar-alt'>Jan 2021 - Jul 2021</i>
-                                </div>
-                            </div>
-
-                            <div>
-                                <span className='experience__rounder'></span>
-                                <span className='experience__line'></span>
-                            </div>
-                        </div>
+                        </div>                                
                         </div>
                 </div>
             </div>

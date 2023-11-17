@@ -11,7 +11,7 @@ const Frontend = () => {
                     <div className='skills__data'>
                         <i class="bx bx-check-square"></i>
                         <div>
-                            <h3 className='skills__name'>HTML</h3>
+                            <h3 className='skills__name'>HTML/CSS</h3>
                         </div>
                     </div>
 
@@ -19,7 +19,7 @@ const Frontend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>CSS</h3>
+                            <h3 className='skills__name'>Bootstrap</h3>
                         </div>
                     </div>
 
@@ -54,7 +54,7 @@ const Frontend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>Bootstrap</h3>
+                            <h3 className='skills__name'>Angular</h3>
                         </div>
                     </div>
                     </div>

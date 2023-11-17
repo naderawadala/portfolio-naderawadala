@@ -11,7 +11,7 @@ const Backend = () => {
                     <div className='skills__data'>
                         <i class="bx bx-check-square"></i>
                         <div>
-                            <h3 className='skills__name'>C#</h3>
+                            <h3 className='skills__name'>Java</h3>
                         </div>
                     </div>
                     
@@ -19,7 +19,7 @@ const Backend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>Java</h3>
+                            <h3 className='skills__name'>Oracle</h3>
                         </div>
                     </div>
 
@@ -38,15 +38,15 @@ const Backend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>.NET Core</h3>
+                            <h3 className='skills__name'>Hibernate</h3>
                         </div>
                     </div>
 
                     <div className='skills__data'>
-                    <i class='bx bx-check-square' ></i>
+                    <i class='bx bx-check-square'></i>
 
                         <div>
-                            <h3 className='skills__name'>Spark</h3>
+                            <h3 className='skills__name'>Spring</h3>
                         </div>
                     </div>
 
