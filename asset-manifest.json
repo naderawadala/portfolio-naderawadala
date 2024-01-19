@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/portfolio-naderawadala/static/css/main.119f0145.css",
-    "main.js": "/portfolio-naderawadala/static/js/main.d6889fe9.js",
+    "main.js": "/portfolio-naderawadala/static/js/main.afe90e0e.js",
     "static/media/profile.jpg": "/portfolio-naderawadala/static/media/profile.62ae38ff3bcc9ef960c2.jpg",
     "static/media/about.jpg": "/portfolio-naderawadala/static/media/about.6be197642f458e41d1f6.jpg",
-    "static/media/naderawadala-cv.pdf": "/portfolio-naderawadala/static/media/naderawadala-cv.52c037770bee63654610.pdf",
+    "static/media/naderawadala-cv.pdf": "/portfolio-naderawadala/static/media/naderawadala-cv.49a29821d1451d4fc524.pdf",
     "static/media/WIP2.jpg": "/portfolio-naderawadala/static/media/WIP2.68f82106af4beaf83794.jpg",
     "static/media/WIP3.png": "/portfolio-naderawadala/static/media/WIP3.666a3107de9b51daac28.png",
     "static/media/WIP4.jpg": "/portfolio-naderawadala/static/media/WIP4.dca97c069893f5dcfc52.jpg",
     "static/media/WIP1.jpg": "/portfolio-naderawadala/static/media/WIP1.51336761d094e089e67d.jpg",
     "index.html": "/portfolio-naderawadala/index.html",
     "main.119f0145.css.map": "/portfolio-naderawadala/static/css/main.119f0145.css.map",
-    "main.d6889fe9.js.map": "/portfolio-naderawadala/static/js/main.d6889fe9.js.map"
+    "main.afe90e0e.js.map": "/portfolio-naderawadala/static/js/main.afe90e0e.js.map"
   },
   "entrypoints": [
     "static/css/main.119f0145.css",
-    "static/js/main.d6889fe9.js"
+    "static/js/main.afe90e0e.js"
   ]
 }
