@@ -16,13 +16,11 @@ const About = () => {
           <Info/>
 
           <p className='about__description'>
-            I am a full stack developer with over two years of
-            experience in the field of software development. I can
-            proudly say that I have had the opportunity to specialize
-            in a wide array of different technologies for a short amount of time 
-            and even though I have graduated from university, I still feel like a lifelong
-            student and I am constantly learning new things and I am always curious
-            to see what else is out there.
+          I am an experienced full-stack developer with over two years of expertise in software development.
+          I have specialized and focused in developing Java and Spring-Boot applications, along with being
+          quite familiar in frontend frameworks such as React and Angular. I also maintain a student mindset
+          despite having already graduated from university, and I am always eager and curious enough to explore
+          new technologies and constantly expand my knowledge.
           </p>
 
           <a download="" href={CV} className='button button--flex'>

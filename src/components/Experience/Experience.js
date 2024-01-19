@@ -81,7 +81,7 @@ const Experience = () => {
                             </div>
 
                             <div>
-                                <h3 className='experience__title'>Fullstack Developer</h3>
+                                <h3 className='experience__title'>Full Stack Developer</h3>
                                 <span className='experience__subtitle'>DXC Technology</span>
                                 <div className='experience__calendar'>
                                 <i className='uil uil-calendar-alt'>April 2023 - Present</i>
@@ -92,7 +92,7 @@ const Experience = () => {
 
                         <div className='experience__data'>
                             <div>
-                                <h3 className='experience__title'>Fullstack Developer</h3>
+                                <h3 className='experience__title'>Full Stack Developer</h3>
                                 <span className='experience__subtitle'>pressrelations</span>
                                 <div className='experience__calendar'>
                                     <i className='uil uil-calendar-alt'>Feb 2022 - Mar 2023</i>
