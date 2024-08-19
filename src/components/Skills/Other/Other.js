@@ -11,7 +11,7 @@ const Other = () => {
                     <div className='skills__data'>
                         <i class="bx bx-check-square"></i>
                         <div>
-                            <h3 className='skills__name'>OOP</h3>
+                            <h3 className='skills__name'>OOP/SOLID</h3>
                         </div>
                     </div>
 
@@ -45,7 +45,7 @@ const Other = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>Jira</h3>
+                            <h3 className='skills__name'>Jira/Trello</h3>
                         </div>
                     </div>
 

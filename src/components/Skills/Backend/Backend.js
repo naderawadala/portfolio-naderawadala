@@ -19,7 +19,7 @@ const Backend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>Oracle</h3>
+                            <h3 className='skills__name'>Spring Boot</h3>
                         </div>
                     </div>
 
@@ -27,7 +27,7 @@ const Backend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>MSSQL</h3>
+                            <h3 className='skills__name'>JPA/Hibernate</h3>
                         </div>
                     </div>
 
@@ -38,7 +38,7 @@ const Backend = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>Hibernate</h3>
+                            <h3 className='skills__name'>Oracle</h3>
                         </div>
                     </div>
 
@@ -46,7 +46,7 @@ const Backend = () => {
                     <i class='bx bx-check-square'></i>
 
                         <div>
-                            <h3 className='skills__name'>Spring</h3>
+                            <h3 className='skills__name'>MSSQL</h3>
                         </div>
                     </div>
 
