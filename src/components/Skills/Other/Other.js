@@ -27,7 +27,7 @@ const Other = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>Agile</h3>
+                            <h3 className='skills__name'>CI/CD</h3>
                         </div>
                     </div>
                     </div>
@@ -53,7 +53,7 @@ const Other = () => {
                         <i class="bx bx-check-square"></i>
 
                         <div>
-                            <h3 className='skills__name'>SCRUM</h3>
+                            <h3 className='skills__name'>Agile/SCRUM</h3>
                         </div>
                     </div>
                     </div>

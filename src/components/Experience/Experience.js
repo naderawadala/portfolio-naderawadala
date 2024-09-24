@@ -114,10 +114,10 @@ const Experience = () => {
                             </div>
 
                             <div>
-                                <h3 className='experience__title'>Software Engineer Intern</h3>
+                                <h3 className='experience__title'>Junior Java Software Developer</h3>
                                 <span className='experience__subtitle'>clouway Ltd.</span>
                                 <div className='experience__calendar'>
-                                    <i className='uil uil-calendar-alt'>Jul 2021 - Feb 2022</i>
+                                    <i className='uil uil-calendar-alt'>Jul 2020 - Feb 2022</i>
                                 </div>
                             </div>
 
